@@ -71,8 +71,6 @@ javac *.java
 java Main
 ```
 
-**Important:** The uploaded project currently contains duplicate definitions of the `Expert` class in `DifficultyBehavior.java` and `Expert.java`. Remove the duplicate before compiling.
-
 Make sure `cards.csv` and `names.csv` remain in the same directory as the compiled Java classes.
 
 ### Starting a Game
