@@ -193,7 +193,7 @@ The linked list was developed as an alternative approach to managing turn order.
 
 The following UML diagram illustrates the original design of the application, including its class relationships, interfaces, and design patterns.
 
-![UNO UML Class Diagram](images/uno-uml.png)
+![UNO UML Class Diagram](UNO UML DIAGRAM-4448.png)
 
 *The UML diagram represents the project's planned architecture. Some components differ from the final implementation.*
 
